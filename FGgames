@@ -1,0 +1,42 @@
+<html>
+    <title> FGgames </title>
+        <body style="background-color:black">
+                    
+            <header style="background-color:orange;color:white"> <img src="https://ibb.co/KNFMTH2 width="30px" height="30px"> Добро   пожаловать! <a href="#table">Прайс лист</a> <a href="#p"> Ознакомтесь </a>
+           </header>
+                <main> 
+                    <h1 style="text-align:center;background-color:black;color:white"> FGgames </h1>
+                    <h2 style="text-align:center;background-color:black;color:white"> Лучшие турниры по играм! </h2>
+                    <p id="p" style="text-align:center;background-color:black;color:white"> Начинайте зарабатывать играяя в игры с нами! <br/> CS Go? Dota2? Apex Legend? - всё с нами! <br/> Просто регестрируйся и всё! </p>
+                    <img src="https://ru.epicstars.com/wp-content/uploads/2018/04/cybersport.jpg">
+                    <h4 style="text-align:center;background-color:black;color:white"> Cейчас идут турниры: </h4>
+                    <table id="table" style="text-align:center;background-color:black;color:white;border:1px solid white">
+                        <tr style="border:1px solid white">
+                            <td>Турниры</td>
+                            <td>Цена</td>
+                            <td>Дата и время</td>
+                            <td>выйгрыш</td>
+                        </tr>
+                        <tr style="border:1px solid white">
+                            <td>СS GO</td>
+                            <td>500RUB</td>
+                            <td>10.05.2022 18:00</td>
+                            <td>100 000RUB</td>
+                        </tr>
+                        <tr style="border:1px solid white">
+                            <td>Dota2</td>
+                            <td>100RUB</td>
+                            <td>01.06.2022 14:00</td>
+                            <td>10 000RUB</td>
+                        </tr>
+                        <tr style="border:1px solid white">
+                            <td>Apex legend</td>
+                            <td>1000RUB</td>
+                            <td>10.05.2022 12:00</td>
+                            <td>500 000RUB</td>
+                        </tr>
+                    </table>
+                            </main>
+                            <footer style="text-align:center;background-color:black;color:white"> Контакты: <br/> Телефон: +7989462942 <br/> Email: anonimus@gmail.com </footer>                 
+         </body>
+</html>
